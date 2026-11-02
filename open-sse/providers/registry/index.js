@@ -1,5 +1,6 @@
 // Auto-generated: static imports for all registry entries
 import p0 from "./alicode-intl.js";
+import pFreebuff from "./freebuff.js";
 import p1 from "./alicode.js";
 import p2 from "./anthropic.js";
 import p3 from "./antigravity.js";
@@ -294,4 +295,5 @@ export default [
   p151,
   p152,
   p153,
+  pFreebuff,
 ];
